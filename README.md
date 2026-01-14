@@ -10,18 +10,18 @@ React · Next.js · TypeScript 기반으로
 
 ## 📌 Experience Highlights
 
-#### 🛒 교보문고 B2B 리딩트리 (2024.07 ~ 2025.02)
+#### 🛒 교보문고 B2B 리딩트리
 
 - Next.js 기반 도서 e-Commerce 서비스 개발
 - 메인 포털, 검색, 마이페이지(보유 도서/관심 목록) 구현
 - Monorepo 환경에서 공통 컴포넌트 및 UI 시스템 관리
 
-#### 🏦 IBK 기업은행 신용감리 · 조기경보 시스템 (2025.06 ~ 2025.10)
+#### 🏦 IBK 기업은행 신용감리 · 조기경보 시스템
 
 - React 기반 금융 서비스 UI 개발
 - 신용위험평가, 권고사항 관리, 신용감리 결과 조회 화면 구현
 
-#### 📺 LG webOS TV 서비스 (2023.02 ~ 2023.10)
+#### 📺 LG webOS TV 서비스 
 
 - LG webOS 환경 TV App 개발
 - Vue → React 전환 프로젝트 수행
@@ -39,6 +39,15 @@ React · Next.js · TypeScript 기반으로
 - 기존 코드 개선 및 점진적 리팩토링
 
 ---
+
+## 📦 Repositories
+
+- **[my-turborepo](https://github.com/shj9206/my-turborepo)**  
+  Turborepo 기반 **Monorepo 개인 프로젝트**  
+  - 포트폴리오 사이트 + Book Store 서비스
+  - Next.js · React · TypeScript 기반
+  - storybook 디자인 시스템
+  - 공통 컴포넌트, 상태 관리, 폴더 구조 설계 중심
 
 ## 🛠 Tech Stack
 
